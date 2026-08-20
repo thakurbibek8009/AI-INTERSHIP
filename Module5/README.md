@@ -109,3 +109,14 @@ API keys are loaded from environment variables. The `.gitignore` file prevents `
 **Module 5 — AI Tools & Mini Project**
 
 This project demonstrates how AI can assist with coding, learning, research, productivity, and educational workflows.
+
+
+## 🚀 How to Run
+
+### 1. Clone the Repository
+
+```bash
+git clone YOUR_GITHUB_REPOSITORY_URL
+cd AI-Study-Assistant
+
+
