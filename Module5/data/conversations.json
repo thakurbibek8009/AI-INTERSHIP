@@ -1,0 +1,29 @@
+[
+  {
+    "id": "8dd6b054-d321-4537-bc6e-2dedf5cccc7a",
+    "title": "can you tell me what is the weather of t",
+    "date": "2026-08-20T20:55:15",
+    "messages": [
+      {
+        "role": "user",
+        "content": "can you tell me what is the weather of today in AP,tekkali"
+      },
+      {
+        "role": "assistant",
+        "content": "Hello! As an AI tutor, I want to let you know that **I do not have access to real-time internet data**, so I cannot provide the live weather forecast for today in **Tekkali, Andhra Pradesh**. \n\nHowever, I can guide you on how to check it easily and share a little bit about the climate of that region!\n\n---\n\n### 🌤️ How to check today's weather in Tekkali right now:\n\n1. **Quick Search:** Open Google or any search engine and type:  \n   `\"weather in Tekkali today\"`\n2. **Reliable Weather Services:** You can check trusted websites or apps such as:\n   * **IMD (India Meteorological Department)** – Official government weather portal (`mausam.imd.gov.in`).\n   * **AccuWeather** or **The Weather Channel** (weather.com).\n\n---\n\n### 🗺️ Educational Fact: Climate of Tekkali, AP\n\nTo help with your general knowledge or geography studies:\n\n* **Location:** Tekkali is a town located in the **Srikakulam district** of northeastern Andhra Pradesh, close to the Bay of Bengal.\n* **Climate Type:** It experiences a **tropical wet and dry climate**.\n* **General Pattern:**\n  * **Summers (March – May):** Hot and humid due to its proximity to the coast.\n  * **Monsoons (June – October):** Receives significant rainfall from the South-West and North-East monsoons.\n  * **Winters (November – February):** Mild and pleasant.\n\n---\n*If you have any academic questions regarding weather patterns, geography, or climate science, feel free to ask!*"
+      }
+    ]
+  },
+  {
+    "id": "5120927d-a389-4ed1-a8a8-deb33b18c0db",
+    "title": "New Chat",
+    "date": "2026-08-20T20:55:13",
+    "messages": []
+  },
+  {
+    "id": "a30aece0-513b-4398-9a47-3d5d93a33f3e",
+    "title": "New Chat",
+    "date": "2026-08-20T18:31:25",
+    "messages": []
+  }
+]
